@@ -2,6 +2,9 @@
 
 ## ABOUT PHONEPE:
 
+![image](https://github.com/praveenvnatesan/Phonepe_Pulse_Data_EDA_and_Visualisation/assets/167243885/175045c4-aa61-4869-9c41-aaad972da169)
+
+
 PhonePe is an Indian digital payments and financial services company headquartered in Bengaluru, Karnataka, India. PhonePe was founded in December 2015, by Sameer Nigam, Rahul Chari and Burzin Engineer .The PhonePe app, based on the Unified Payments Interface (UPI), went live in August 2016.
 
 The PhonePe app is available in 11 Indian languages. Using PhonePe, users can send and receive money, recharge mobile, DTH, data cards, make utility payments, pay at shops, invest in tax saving funds, liquid funds, buy insurance, mutual funds, and digital gold.
@@ -31,4 +34,34 @@ Using Streamlit and Plotly to build an interactive dashboard.
 
 5. Data Retrieval:
 Fetching data from the database to dynamically update the dashboard.
+
+# Dashboard:
+* It contains information about Phonepe in the **Home** page and details about the **Phonepe pulse Data Visualisation** in the  **Analysis** page
+* **ANALYSIS**: 
+* It provides information based on **all India , States and Top Charts**
+* Under these it provides analysis based on the **Transaction and User** data in each category.
+* Provides information based on the ** year , Quarter , Type of Transaction**
+
+# Dashboard images:
+
+![image](https://github.com/praveenvnatesan/Phonepe_Pulse_Data_EDA_and_Visualisation/assets/167243885/81f46705-c336-40ec-b5f9-720f0c0576fa)
+
+![image](https://github.com/praveenvnatesan/Phonepe_Pulse_Data_EDA_and_Visualisation/assets/167243885/0c81e895-9ca4-4115-a63e-f7e1491988b0)
+
+![image](https://github.com/praveenvnatesan/Phonepe_Pulse_Data_EDA_and_Visualisation/assets/167243885/443f8ce6-12db-462e-a272-77cef0851664)
+
+![image](https://github.com/praveenvnatesan/Phonepe_Pulse_Data_EDA_and_Visualisation/assets/167243885/cbae737c-2b83-44e7-b851-a68ecc335714)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
